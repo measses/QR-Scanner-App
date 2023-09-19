@@ -1,6 +1,6 @@
 # QR KOD OKUYUCU
 
-## Proje React ve Tailwind kullanarak hazırlanmıştır.
+## Proje React ve Tailwind kullanarak hazırlanmıştır. İsterseniz Kameranız ile taratın veya dosya olarak yükleme yapabilirsiniz.
 
 #### Html5-QRCode npm paketi kullanıldı.
 
