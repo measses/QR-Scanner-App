@@ -2,6 +2,8 @@
 
 ## Proje React ve Tailwind kullanarak hazırlanmıştır.
 
+#### Html5-QRCode npm paketi kullanıldı.
+
 ### Ekran Görüntüleri
 ![1](https://github.com/measses/QR-Scanner-App/assets/67739721/e987792f-c3c7-4389-b1d0-cad0648f0d74)
 
