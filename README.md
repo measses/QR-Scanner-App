@@ -7,6 +7,6 @@
 
 ![Adsız](https://github.com/measses/QR-Scanner-App/assets/67739721/870600fb-78fa-4821-9c9a-7500a15f9687)
 
-#### Canlı Demo
-https://qr-scanner-app-theta.vercel.app
+## Canlı Demo
+### https://qr-scanner-app-theta.vercel.app
 
